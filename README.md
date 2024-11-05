@@ -91,6 +91,6 @@ Isso cria um arquivo `script.html` com a documentação do código, que pode ser
 
 ## Autor
 
-- **Romário Ferreira**
-- [LinkedIn](https://www.linkedin.com/in/rom%C3%A1rio-ferreira-69239659/) 
+- **Guilherme Dantas Barbosa**
+- [LinkedIn](https://www.linkedin.com/in/guiihdantas-fab/) 
 
